@@ -58,7 +58,7 @@ Social and Democratic Risk Prototype
 - λεξικό μεταβλητών,
 - μεθοδολογία και πηγές.
 
-"Άνοιγμα του prototype" (social_democratic_risk_prototype_v1.xlsx)
+[Άνοιγμα του prototype](social_democratic_risk_prototype_v1.xlsx)
 
 Περιορισμοί
 
